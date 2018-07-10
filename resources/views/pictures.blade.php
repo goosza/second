@@ -6,6 +6,8 @@
         <div class="col" style="overflow:hidden; height:200px;"><img src="/img/3.jpg" alt="" height="200px"></div>
         <div class="col" style="overflow:hidden; height:200px;"><img src="/img/4.jpeg" alt="" height="200px"></div>
         <div class="col" style="overflow:hidden; height:200px;"><img src="/img/5.jpg" alt="" height="200px"></div>
+        
+        <div class="col" style="overflow:hidden; height:200px;"><img src="/img/6.jpg" alt="" height="200px"></div>
     </div>
     <div class="row" style="margin-top:10px;">
         <div class="col-4 bg-info"><div class="container">Мы вынуждены отталкиваться от того, что постоянный количественный рост и сфера нашей активности играет важную роль в формировании прогресса профессионального сообщества. Имеется спорная точка зрения, гласящая примерно следующее: многие известные личности превращены в посмешище, хотя само их существование приносит несомненную пользу обществу. Также как сложившаяся структура организации напрямую зависит от анализа существующих паттернов поведения.</div>
