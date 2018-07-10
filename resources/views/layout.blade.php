@@ -41,29 +41,24 @@
     </head>
     <body>
         <div class="header">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-info">
           
           
           <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                <a class="nav-link" href="#">Лол<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#">Главная<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="#">Аян<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="#">Новости<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Мелкий</a>
+                <a class="nav-link" href="#">Контакты</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Лох</a>
+                <a class="nav-link" href="#">Регистрация</a>
               </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Совет лицея
-                </a>
-
-              </li>
+              
             </ul>
           </div>
         </nav>
@@ -74,7 +69,7 @@
        </div>
         
         
-        <nav class="navbar navbar-light bg-light footer">
+        <nav class="navbar navbar-light footer bg-info">
           <a class="navbar-brand" href="#">
             <img src="/docs/4.1/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt="">
             Bootstrap
