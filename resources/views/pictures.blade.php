@@ -1,12 +1,17 @@
-@extends("layout")
-@section("body")
-    <div class="container">
-        <div class="row">
-            <div class="col" style="overflow:hidden; height:200px;"><img src="/img/1.jpg" alt=""></div>
-            <div class="col" style="overflow:hidden; height:200px;"><img src="/img/2.jpg" alt=""></div>
-            <div class="col" style="overflow:hidden; height:200px;"><img src="/img/3.jpg" alt=""></div>
-            <div class="col" style="overflow:hidden; height:200px;"><img src="/img/4.jpg" alt=""></div>
-            <div class="col" style="overflow:hidden; height:200px;"><img src="/img/5.jpg" alt=""></div>
+@extends("layout") @section("body")
+<div class="container">
+    <div class="row" style="margin-top:100px;">
+        <div class="col" style="overflow:hidden; height:200px;"><img src="/img/1.jpg" alt="" height="200px"></div>
+        <div class="col" style="overflow:hidden; height:200px;"><img src="/img/2.jpg" alt="" height="200px"></div>
+        <div class="col" style="overflow:hidden; height:200px;"><img src="/img/3.jpg" alt="" height="200px"></div>
+        <div class="col" style="overflow:hidden; height:200px;"><img src="/img/4.jpeg" alt="" height="200px"></div>
+        <div class="col" style="overflow:hidden; height:200px;"><img src="/img/5.jpg" alt="" height="200px"></div>
+    </div>
+    <div class="row" style="margin-top:10px;">
+        <div class="col-4 bg-info"><div class="container">Мы вынуждены отталкиваться от того, что постоянный количественный рост и сфера нашей активности играет важную роль в формировании прогресса профессионального сообщества. Имеется спорная точка зрения, гласящая примерно следующее: многие известные личности превращены в посмешище, хотя само их существование приносит несомненную пользу обществу. Также как сложившаяся структура организации напрямую зависит от анализа существующих паттернов поведения.</div>
+        </div>
+        <div class="col-8 bg-light"><div class="container">Мы вынуждены отталкиваться от того, что постоянный количественный рост и сфера нашей активности играет важную роль в формировании прогресса профессионального сообщества. Имеется спорная точка зрения, гласящая примерно следующее: многие известные личности превращены в посмешище, хотя само их существование приносит несомненную пользу обществу. Также как сложившаяся структура организации напрямую зависит от анализа существующих паттернов поведения. Мы вынуждены отталкиваться от того, что постоянный количественный рост и сфера нашей активности играет важную роль в формировании прогресса профессионального сообщества. Имеется спорная точка зрения, гласящая примерно следующее: многие известные личности превращены в посмешище, хотя само их существование приносит несомненную пользу обществу. Также как сложившаяся структура организации напрямую зависит от анализа существующих паттернов поведения.</div>
         </div>
     </div>
+</div>
 @endsection
