@@ -66,6 +66,7 @@
         </div>
        <div class="content">
             @yield("body")
+           
        </div>
         
         
@@ -80,5 +81,4 @@
  
     </body>
 </html>
-    </body>
-</html>
+  \
